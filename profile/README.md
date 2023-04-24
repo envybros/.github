@@ -19,3 +19,5 @@
 
 >6. "To succeed in life, you need two things: ignorance and confidence." - Mark Twain   
 >인생에서 성공하기 위해서는 두 가지가 필요하다: 무지함과 자신감.
+
+>7. "Stay hungry, stay foolish." - Steve Jobs
