@@ -9,7 +9,7 @@
 >어려움의 한 가운데에는 항상 기회가 존재한다.
 
 >3. "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison   
->나는 실패한 것이 아니다. 그저 1만 가지 동작하지 않는 방법을 찾은 것 뿐이다.
+>나는 실패한 것이 아니다. 그저 만 가지 동작하지 않는 방법을 찾은 것 뿐이다.
 
 >4. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill   
 >성공은 최종적인 것이 아니며, 실패는 치명적이지 않다. 중요한 것은 계속 나아가는 용기다.
