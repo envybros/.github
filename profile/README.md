@@ -1,4 +1,4 @@
-## We are all strangers in a strange land 🦋
+## 溫故知新 온고지신을 모토로 운영되는 곳 🍊
 
 ### Let's embrace foolish bravery!
 
