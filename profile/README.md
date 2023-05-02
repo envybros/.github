@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/111423116/235037325-c62b5c41-d0e9-4957-98c1-8471c7988343.png"  width="300" height="300">
+<img src="https://i.imgur.com/JSyTwNG.png"  width="300" height="300">
 
 ### 온고지신(溫故知新) 🍊
 > 「옛것을 익히고 그것을 미루어서 새것을 앎.」 이라는 뜻으로, 옛 학문(學問)을 되풀이하여 연구(硏究)하고, 현실(現實)을 처리(處理)할 수 있는 새로운 학문(學問)을 이해(理解)하여야 비로소 남의 스승이 될 자격(資格)이 있다는 뜻
