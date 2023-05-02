@@ -25,7 +25,4 @@
 
 ### INTEGRITY
 
-> 1. the quality of always behaving according to the moral principles that you believe in, so that people respect and trust you
-> 2. the quality of behaving according to the rules and standards of your job or profession
-> 3. the quality of being complete or whole, without any missing parts
-> 4. the quality of being in a good condition, without any damage or mistakes
+> possessing integrity means that an individual consistently acts according to their values and principles, ensuring that their words and actions align with those values.    
