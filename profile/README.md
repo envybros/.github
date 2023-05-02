@@ -23,4 +23,9 @@
 > 6. "To succeed in life, you need two things: ignorance and confidence." - Mark Twain   
 > 인생에서 성공하기 위해서는 두 가지가 필요하다: 무지함과 자신감.
 
-> 7. "Stay hungry, stay foolish." - Steve Jobs
+### INTEGRITY
+
+> 1. the quality of always behaving according to the moral principles that you believe in, so that people respect and trust you
+> 2. the quality of behaving according to the rules and standards of your job or profession
+> 3. the quality of being complete or whole, without any missing parts
+> 4. the quality of being in a good condition, without any damage or mistakes
