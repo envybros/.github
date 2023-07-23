@@ -1,5 +1,8 @@
 <img src="https://user-images.githubusercontent.com/111423116/236775964-11f1c974-e662-4b2d-803f-25b0e8216acf.png"  width="300" height="300">
 
+<details>
+  <summary>Read more</summary>
+
 ### 온고지신(溫故知新) 🍊
 > 「옛것을 익히고 그것을 미루어서 새것을 앎.」 이라는 뜻으로, 옛 학문(學問)을 되풀이하여 연구(硏究)하고, 현실(現實)을 처리(處理)할 수 있는 새로운 학문(學問)을 이해(理解)하여야 비로소 남의 스승이 될 자격(資格)이 있다는 뜻
 
@@ -25,3 +28,4 @@
 
 > 6. "To succeed in life, you need two things: ignorance and confidence." - Mark Twain   
 > -> 인생에서 성공하기 위해서는 두 가지가 필요하다: 무지함과 자신감.
+</details>
