@@ -3,29 +3,20 @@
 <details>
   <summary>Read more</summary>
 
-### 온고지신(溫故知新) 🍊
-> 「옛것을 익히고 그것을 미루어서 새것을 앎.」 이라는 뜻으로, 옛 학문(學問)을 되풀이하여 연구(硏究)하고, 현실(現實)을 처리(處理)할 수 있는 새로운 학문(學問)을 이해(理解)하여야 비로소 남의 스승이 될 자격(資格)이 있다는 뜻
+# My favorite quote by Jack Ma 🦄
 
-### INTEGRITY 🌟
-> 자신의 가치와 원칙에 따라 일관되게 행동하고, 말과 태도가 이러한 가치에 부합하도록 하는 것을 `INTEGRITY`라 한다.
+세상에서 가장 같이 일하기 힘든 사람들은 가난한 사람들이다.
 
-### Let's embrace foolish bravery! 💼
+그들은 자유를 주면 함정이라 얘기하고, 작은 사업을 얘기하면 돈을 별로 못 번다고 얘기하고,
 
-> 1. "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson   
-> -> 세상이 당신을 다른 사람으로 만들려 할 때 진정한 자신을 찾는 것이 가장 큰 성과다.
+큰 사업을 얘기하면 돈이 없다고 불평하고, 새로운 것을 시도하자고 제안하면 경험이 없다고 변명하며, 전통적인 사업에 대해 제안하면 경쟁이 치열하다며 두려워하고, 새로운 사업모델을 말하면 다단계라고 몰아가며, 상점을 같이 운영하자고 하면 자유가 없다고 말하며, 새로운 사업을 시작하자 말하면 전문가가 없다고 한다.
 
-> 2. "In the middle of every difficulty lies opportunity." - Albert Einstein   
-> -> 어려움의 한 가운데에는 항상 기회가 존재한다.
+그들에게는 공통점이 있다.
 
-> 3. "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison   
-> -> 나는 실패한 것이 아니다. 그저 만 가지 동작하지 않는 방법을 찾은 것 뿐이다.
+희망이 없는 친구들에게 의견 듣기를 좋아하고, 구글이나 포털사이트에 물어보는 것을 즐기며, 대학교 교수보다 많은 생각을 하지만 장님보다 더 적은 일을 한다.
 
-> 4. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill   
-> -> 성공은 최종적인 것이 아니며, 실패는 치명적이지 않다. 중요한 것은 계속 나아가는 용기다.
+그들에게 물어보라. 무엇을 할 수 있는지. 그들은 대답할 수 없을 것이다.
 
-> 5. "Do what you can, with what you have, where you are." - Theodore Roosevelt   
-> -> 당신이 할 수 있는 것, 가진 것, 있는 곳에서 최선을 다하라.
+가난한 사람들은 공통적인 한가지 행동 때문에 실패한다. 그들의 인생은 기다리다가 끝이 난다.
 
-> 6. "To succeed in life, you need two things: ignorance and confidence." - Mark Twain   
-> -> 인생에서 성공하기 위해서는 두 가지가 필요하다: 무지함과 자신감.
 </details>
